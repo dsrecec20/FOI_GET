@@ -15,6 +15,7 @@ namespace FOI_GET
         public Form1()
         {
             InitializeComponent();
+            int x;
         }
     }
 }
